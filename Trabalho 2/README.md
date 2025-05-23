@@ -1,4 +1,4 @@
-# 🌳 Comparativo: Árvore Binária de Busca (BST) vs Árvore AVL
+# 🌳 Trabalho Comparativo: Árvore Binária de Busca (BST) vs Árvore AVL
 
 Este projeto tem como objetivo demonstrar as diferenças práticas entre **Árvores Binárias de Busca (BST)** e **Árvores AVL**, com foco em como os dados são inseridos, percorridos e buscados, além de contabilizar a eficiência da busca em cada tipo de árvore.
 

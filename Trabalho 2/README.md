@@ -72,8 +72,8 @@ Implementados nos dois tipos de árvore:
 
 
 ## 🚀 Como Compilar
-gcc main.c bst.c avl.c -o arvores
-./arvores
+gcc main.c abb.c avl.c -o arvore
+./arvore
 
 
 ## 👨‍🏫 Considerações

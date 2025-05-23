@@ -1,4 +1,3 @@
-
 # 🌳 Comparativo: Árvore Binária de Busca (BST) vs Árvore AVL
 
 Este projeto tem como objetivo demonstrar as diferenças práticas entre **Árvores Binárias de Busca (BST)** e **Árvores AVL**, com foco em como os dados são inseridos, percorridos e buscados, além de contabilizar a eficiência da busca em cada tipo de árvore.
@@ -77,7 +76,7 @@ gcc main.c bst.c avl.c -o arvores
 ./arvores
 
 
-##👨‍🏫 Considerações
--A AVL é ideal quando há muitas operações de busca em conjuntos grandes de dados.
--A BST pode ser suficiente em casos simples, mas seu desempenho depende da ordem de inserção.
--A contagem de acessos fornece uma métrica direta da eficiência de cada estrutura.
+## 👨‍🏫 Considerações
+A AVL é ideal quando há muitas operações de busca em conjuntos grandes de dados.
+A BST pode ser suficiente em casos simples, mas seu desempenho depende da ordem de inserção.
+A contagem de acessos fornece uma métrica direta da eficiência de cada estrutura.

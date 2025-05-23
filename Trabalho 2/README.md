@@ -76,9 +76,8 @@ Implementados nos dois tipos de árvore:
 gcc main.c bst.c avl.c -o arvores
 ./arvores
 
+
 ##👨‍🏫 Considerações
-A AVL é ideal quando há muitas operações de busca em conjuntos grandes de dados.
-
-A BST pode ser suficiente em casos simples, mas seu desempenho depende da ordem de inserção.
-
-A contagem de acessos fornece uma métrica direta da eficiência de cada estrutura.
+-A AVL é ideal quando há muitas operações de busca em conjuntos grandes de dados.
+-A BST pode ser suficiente em casos simples, mas seu desempenho depende da ordem de inserção.
+-A contagem de acessos fornece uma métrica direta da eficiência de cada estrutura.

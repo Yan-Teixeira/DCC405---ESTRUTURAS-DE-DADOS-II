@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <string.h>
-#include "hash.h" // Certifique-se de que este cabeçalho está incluído
+#include "hash.h" 
 
 void gerar_dados_testes(TabelaHash* tabela, int quantidade) {
     const char* alunos[] = {"Maria", "João", "Ana", "Pedro", "Carlos","Claros"};

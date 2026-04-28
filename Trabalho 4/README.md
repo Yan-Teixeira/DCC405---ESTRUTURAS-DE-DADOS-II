@@ -13,10 +13,10 @@
 
 ## Integrantes do Grupo
 
-- **Lucas Gabriel Rocha Constancio** – Matricula: *[2023010280]*  
-- **LUCAS MATHEUS NOBRE COELHO** - Matricula: *[2023010727]*
-- **GUILHERME ANTÔNIO JOSÉ CAETANO RAMOS MATOS** - Matricula: *[2023010736]*
-- **YAN DOS SANTOS TEIXEIRA** - Matricula: *[2023010530]*
+- **Lucas Gabriel Rocha Constancio**  
+- **LUCAS MATHEUS NOBRE COELHO** 
+- **GUILHERME ANTÔNIO JOSÉ CAETANO RAMOS MATOS** 
+- **YAN DOS SANTOS TEIXEIRA** 
 ---
 
 ## Descrição do Projeto
